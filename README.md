@@ -4,9 +4,7 @@ This is a simple Calculator I developed as a way to introduce myself to Kotlin. 
 relevant to the selected operator (e.g. addition will request two addends). It will then output the result of the equation you gave it and end the program. The program also has some error handling in the
 form of looping various requests until it recieves an acceptable input (e.g. factorial will only accept an integer).
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ruCmQzQFH5U)
 
 # Development Environment
 
