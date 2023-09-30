@@ -12,11 +12,7 @@ form of looping various requests until it recieves an acceptable input (e.g. fac
 
 I used IntelliJ IDEA to develop this software for its internal Kotlin support and to familiarize myself with the process of learning how to use a new development environment.
 
-{Describe the programming language that you used and any libraries.}
-
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [Exercism](https://exercism.org)
 - [Kotlin](https://kotlinlang.org)
